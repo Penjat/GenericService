@@ -20,4 +20,4 @@ let package = Package(
             name: "ServiceTests",
             dependencies: ["GenericService"]),
     ]
-
+)
